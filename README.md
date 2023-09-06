@@ -27,3 +27,6 @@ L'objectif est de programmer l'interaction des différents personnages avec les 
  Vous aurez la possibilite d'accéder au marché noir pour acheter des armes
 
  Bonne chance aventurier !
+
+
+![Simplon.co](https://github.com/Azemard-Maxime/Projet_CPP-RPG/blob/main/RPG.JPG)
