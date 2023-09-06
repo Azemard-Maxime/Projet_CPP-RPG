@@ -1,4 +1,4 @@
-# Projet_CPP-RPG - ME3A Polytech Marseille
+# Projet_C++ -RPG - ME3A Polytech Marseille
 
 
 Ce projet consiste à créer un jeu de rôle RPG en utilisant les concepts de programmation orienté objet de C++.
